@@ -3,7 +3,7 @@ This project consists of my solutions for Leetcode(https://leetcode.com/problems
 
 
 |  Title |  Difficulty	 | solutionType | Submission |
-| ------------ | ------------ | ------------ |
+| ------------ | ------------ | ------------ |------------|
 | [Reverse digits of an integer.](https://leetcode.com/problems/reverse-integer/description/ "Reverse digits of an integer.")  | Easy  | javascript |[ reverseInteger.js](https://github.com/quefangfang/leetcode/blob/master/reverseInteger.js " reverseInteger.js")|
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/ "Palindrome Number")| Easy  |javascript|[palindromeNumber.js](https://github.com/quefangfang/leetcode/blob/master/palindromeNumber.js "palindromeNumber.js")|
 |  [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | Easy| javascript |[lengthOfLastWord.js](https://github.com/quefangfang/leetcode/blob/master/lengthOfLastWord.js)|
