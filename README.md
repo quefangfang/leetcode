@@ -11,3 +11,5 @@ This project consists of my solutions for Leetcode(https://leetcode.com/problems
 |  [Add Digits](https://leetcode.com/problems/add-digits/description/) |  Easy |javascript| [addDigits.js](https://github.com/quefangfang/leetcode/blob/master/addDigits.js) |
 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) |  Easy  |javascript|  [moveZeroes.js](https://github.com/quefangfang/leetcode/blob/master/moveZeroes.js) |
 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy  |javascript|  [reverseString.js](https://github.com/quefangfang/leetcode/blob/master/reverseString.js) |
+|[Largest Number](https://leetcode.com/problems/largest-number/description/)  |Medium | javascript| [largestNumber.js](https://github.com/quefangfang/leetcode/blob/master/largestNumber.js)|
+|[Happy Number](https://leetcode.com/problems/happy-number/description/) |  Easy  | javascript | [happyNumber.js](https://github.com/quefangfang/leetcode/blob/master/happyNumber.js)  |
