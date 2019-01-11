@@ -13,3 +13,7 @@ This project consists of my solutions for Leetcode(https://leetcode.com/problems
 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy  |javascript|  [reverseString.js](https://github.com/quefangfang/leetcode/blob/master/reverseString.js) |
 |[Largest Number](https://leetcode.com/problems/largest-number/description/)  |Medium | javascript| [largestNumber.js](https://github.com/quefangfang/leetcode/blob/master/largestNumber.js)|
 |[Happy Number](https://leetcode.com/problems/happy-number/description/) |  Easy  | javascript | [happyNumber.js](https://github.com/quefangfang/leetcode/blob/master/happyNumber.js)  |
+|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) |  Easy  | javascript | [numJewelsInStones.js](https://github.com/quefangfang/leetcode/blob/master/numJewelsInStones.js) |
+|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/) |  Easy  | javascript | [flipAndInvertImage.js](https://github.com/quefangfang/leetcode/blob/master/flipAndInvertImage.js) |
+|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) |  Easy  | javascript | [judgeCircle.js](https://github.com/quefangfang/leetcode/blob/master/judgeCircle.js) |
+
