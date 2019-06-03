@@ -16,4 +16,5 @@ This project consists of my solutions for Leetcode(https://leetcode.com/problems
 |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) |  Easy  | javascript | [numJewelsInStones.js](https://github.com/quefangfang/leetcode/blob/master/numJewelsInStones.js) |
 |[Flipping an Image](https://leetcode.com/problems/flipping-an-image/) |  Easy  | javascript | [flipAndInvertImage.js](https://github.com/quefangfang/leetcode/blob/master/flipAndInvertImage.js) |
 |[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) |  Easy  | javascript | [judgeCircle.js](https://github.com/quefangfang/leetcode/blob/master/judgeCircle.js) |
+|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) |  Easy  | javascript | [singleNonDuplicate.js](https://github.com/quefangfang/leetcode/blob/master/singleNonDuplicate.js) |
 
